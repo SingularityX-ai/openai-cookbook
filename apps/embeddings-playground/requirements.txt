@@ -4,3 +4,4 @@ pandas
 scipy
 streamlit
 tenacity
+tornado>=6.4.1 # not directly required, pinned by Snyk to avoid a vulnerability
