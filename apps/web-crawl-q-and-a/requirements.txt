@@ -77,3 +77,4 @@ urllib3==1.26.13
 wcwidth==0.2.5
 yarg==0.1.9
 yarl==1.8.2
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
