@@ -42,7 +42,7 @@ pandas==1.5.2
 parso==0.8.3
 pexpect==4.8.0
 pickleshare==0.7.5
-Pillow==9.4.0
+Pillow==10.2.0
 pipreqs==0.4.11
 platformdirs==2.6.2
 plotly==5.12.0
@@ -71,7 +71,7 @@ tokenizers==0.13.2
 tornado==6.2
 tqdm==4.64.1
 traitlets==5.8.1
-transformers==4.25.1
+transformers==4.37.0
 typing_extensions==4.4.0
 urllib3==1.26.13
 wcwidth==0.2.5
